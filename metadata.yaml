@@ -1,0 +1,25 @@
+_repo: Celtic-Literature_5159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnold, Matthew
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '1401'
+    url: http://www.gutenberg.org/2009/agents/1401
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Celtic literature -- History and criticism'
+- GITenberg
+title: Celtic Literature
+url: http://www.gutenberg.org/ebooks/5159
